@@ -17,7 +17,6 @@ namespace gcTest
             Assert.IsTrue(responseLanguage.Contains("[\"en\",\"ru\",\"ua\"]"));
         }
 
-
         [Test]
         public void restSignInTest()
         {
